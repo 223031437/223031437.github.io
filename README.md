@@ -1,9 +1,25 @@
 # MBALI HLABA
 
+<table>
+<tr>
+<td class="left">
+
+## CONTACT
+
+**Phone:**  
 0677390691  
+
+**Email:**  
 223031437@mycput.ac.za  
-143 Sir Lowry Rd, Foreshore, Cape Town, 8001  
+
+**Address:**  
+143 Sir Lowry Rd, Foreshore,  
+Cape Town, 8001  
+
+**LinkedIn:**  
 www.linkedin.com/in/mbali-hlaba-605b5a377  
+
+**GitHub:**  
 https://github.com/223031437  
 
 ---
@@ -16,19 +32,30 @@ Tsebo Secondary School
 
 **Diploma: ICT in Application Development**  
 Cape Peninsula University of Technology  
-2023 - Present  
+2023 – Present  
 
 ---
 
 ## TECHNICAL SKILLS
 
-- **Programming Languages:** Java, Python, SQL, HTML  
-- **Web Development:** Front-end development (HTML)  
-- **Databases:** MySQL  
-- **Tools & Software:** Microsoft Office  
-- **Concepts:** Client-Server Architecture, IoT Systems, Project Management  
+- **Programming Languages:**  
+  Java, Python, SQL, HTML  
 
----
+- **Web Development:**  
+  Front-end development (HTML)  
+
+- **Databases:**  
+  MySQL  
+
+- **Tools & Software:**  
+  Microsoft Office  
+
+- **Concepts:**  
+  Client-Server Architecture, IoT Systems, Project Management  
+
+</td>
+
+<td class="right">
 
 ## OBJECTIVE
 
@@ -68,7 +95,7 @@ Third-year ICT Application Development student at Cape Peninsula University of T
 
 ---
 
-## REFERENCE
+## REFERENCES
 
 **Name:** Thato Thenjiwe Moenti  
 **Contact:** 0739598356  
@@ -77,4 +104,9 @@ Third-year ICT Application Development student at Cape Peninsula University of T
 **Name:** Abu Imani Mdala  
 **Contact:** 0694933887  
 **Email:** abuimanimdala@gmail.com  
+
+</td>
+</tr>
+</table>
+
 
