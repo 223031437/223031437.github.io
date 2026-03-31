@@ -1,8 +1,5 @@
 # MBALI HLABA
 
-<table>
-<tr>
-<td class="left">
 
 ## CONTACT
 
@@ -53,9 +50,7 @@ Cape Peninsula University of Technology
 - **Concepts:**  
   Client-Server Architecture, IoT Systems, Project Management  
 
-</td>
 
-<td class="right">
 
 ## OBJECTIVE
 
@@ -104,9 +99,5 @@ Third-year ICT Application Development student at Cape Peninsula University of T
 **Name:** Abu Imani Mdala  
 **Contact:** 0694933887  
 **Email:** abuimanimdala@gmail.com  
-
-</td>
-</tr>
-</table>
 
 
