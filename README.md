@@ -100,6 +100,31 @@ Third-year ICT Application Development student at Cape Peninsula University of T
 **Contact:** 0694933887  
 **Email:** abuimanimdala@gmail.com  
 
+---
+
+# CV Development with Markdown
+
+Moving my CV to GitHub Pages was a great way to practice using Markdown. I focused on organizing my experience with clear headings and bullet points, making the page look professional and easy to read. This approach made it much faster to update my details compared to a traditional document, and it shows that I am comfortable using developer tools like Git. 
+
+In the end, I created a clean, fast-loading website that proves I can handle both technical documentation and web hosting.
+
+---
 
 <video width="600" controls src="Mock Interview.mp4">
 </video>
+
+---
+
+# Mock Interview Integration
+
+To make my profile more interactive, I embedded a Mock Interview video into my GitHub Pages site. Since standard Markdown doesn't support video playback, I used a snippet of HTML5 code to integrate the file directly. 
+
+This taught me how to blend raw HTML with Markdown to overcome formatting limits. The result is a professional "digital introduction" that allows recruiters to see my communication skills and personality immediately without leaving the browser.
+
+---
+
+# Deployment and Publishing
+
+The final step was publishing the entire project live using GitHub Pages. I had to configure the repository settings and ensure my file naming  followed the platform's requirements for deployment. 
+
+This experience gave me a practical understanding of web hosting and version control. By taking my work from a local folder to a live URL, I created a permanent, accessible portfolio that I can now share with any employer in a single link.
