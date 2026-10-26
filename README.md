@@ -15,7 +15,7 @@ The portfolio contains evidence of planning, development, execution, testing, an
 The Curriculum Vitae provides a professional summary of qualifications, technical skills, certifications, educational background, and relevant experience.
 
 **Access CV:**  
-[View CV](INSERT_CV_LINK)
+[View CV](https://github.com/223031437/223031437.github.io/blob/main/CV.md)
 
 ---
 
