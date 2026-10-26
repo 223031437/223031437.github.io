@@ -38,7 +38,7 @@ The SQL Server Health Monitoring Dashboard was designed to monitor and report on
 #### Repository
 
 **Dashboard Source Code:**  
-[View GitHub Repository](INSERT_REPOSITORY_LINK)
+[View GitHub Repository](https://github.com/223031437/Dashboard)
 
 ---
 
@@ -51,7 +51,7 @@ The following project management artefacts were created and maintained throughou
 The Agile Team Charter defines the project vision, objectives, team responsibilities, working agreements, communication methods, and governance structure followed during project execution.
 
 #### Evidence
-[View Agile Team Charter](INSERT_AGILE_TEAM_CHARTER_LINK)
+[View Agile Team Charter](https://github.com/223031437/223031437.github.io/tree/main/Agile%20Team%20Charter/Evidence)
 
 #### Reflection
 The Agile Team Charter established a clear framework for collaboration and accountability. It provided direction for the project and ensured that all project activities aligned with the agreed objectives and team expectations.
@@ -63,7 +63,7 @@ The Agile Team Charter established a clear framework for collaboration and accou
 The User Stories capture stakeholder requirements and business needs. Associated tasks were defined to support implementation during each sprint.
 
 #### Evidence
-[View User Stories and Tasks](INSERT_USER_STORIES_LINK)
+[View User Stories and Tasks](https://github.com/223031437/223031437.github.io/blob/main/Backlog/Evidence/User%20Stories%20and%20Tasks.pdf)
 
 #### Reflection
 User stories helped translate business requirements into actionable development activities. This approach improved requirement traceability and facilitated iterative delivery.
@@ -75,7 +75,7 @@ User stories helped translate business requirements into actionable development 
 The Product Backlog contains prioritized features, enhancements, and project requirements identified throughout the development process.
 
 #### Evidence
-[View Product Backlog](INSERT_PRODUCT_BACKLOG_LINK)
+[View Product Backlog](https://github.com/223031437/223031437.github.io/blob/main/Backlog/Evidence/Product%20Backlog.pdf)
 
 #### Reflection
 Maintaining the Product Backlog ensured that project priorities remained aligned with stakeholder expectations and project objectives.
@@ -87,7 +87,7 @@ Maintaining the Product Backlog ensured that project priorities remained aligned
 The Sprint Backlog outlines the tasks selected for each sprint and tracks progress toward sprint goals.
 
 #### Evidence
-[View Sprint Backlog](INSERT_SPRINT_BACKLOG_LINK)
+[View Sprint Backlog](https://trello.com/b/BQL0i867/dashboard)
 
 #### Reflection
 The Sprint Backlog enabled efficient sprint planning and provided visibility into project progress, workload distribution, and task completion.
@@ -99,7 +99,7 @@ The Sprint Backlog enabled efficient sprint planning and provided visibility int
 The Agile Logbook documents project activities, challenges encountered, solutions implemented, and lessons learned during each project week.
 
 #### Evidence
-[View Agile Logbook](INSERT_AGILE_LOGBOOK_LINK)
+[View Agile Logbook](https://github.com/223031437/223031437.github.io/tree/main/Agile%20Logbook/Evidence)
 
 #### Reflection
 The Agile Logbook provided a detailed record of project progression and supported continuous improvement throughout the development lifecycle.
@@ -111,7 +111,7 @@ The Agile Logbook provided a detailed record of project progression and supporte
 A mock interview was conducted to demonstrate communication skills, technical knowledge, problem-solving abilities, and understanding of the project implementation.
 
 **Access Mock Interview:**  
-[View Mock Interview](INSERT_MOCK_INTERVIEW_LINK)
+[View Mock Interview](https://github.com/223031437/223031437.github.io/blob/main/Mock%20Interview.mp4)
 
 ---
 
